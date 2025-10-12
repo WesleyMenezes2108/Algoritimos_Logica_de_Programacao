@@ -126,8 +126,8 @@ IMC médio: 25.00
 
 1. **Clone o repositório:**
    bash
-   git clone https://github.com/wesleymenezes/avaliacao-java-basico.git
-   ```
+   git clone https://github.com/WesleyMenezes2108/Algoritimos_Logica_de_Programacao/tree/main/TESTE_JAVA
+   
 
 2. **Acesse a pasta do projeto:**
    bash
